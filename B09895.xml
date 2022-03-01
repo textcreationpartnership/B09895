@@ -1,0 +1,449 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Artemisa to Cloe. A letter from a lady in the tovvn to a lady in the country; concerning the loves of the tovvn: / by a person of quality.</title>
+            <author>Rochester, John Wilmot, Earl of, 1647-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09895</idno>
+            <idno type="STC">Wing R1740A</idno>
+            <idno type="STC">ESTC R182830</idno>
+            <idno type="EEBO-CITATION">64551701</idno>
+            <idno type="OCLC">ocm 64551701</idno>
+            <idno type="VID">184775</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09895)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184775)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2871:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Artemisa to Cloe. A letter from a lady in the tovvn to a lady in the country; concerning the loves of the tovvn: / by a person of quality.</title>
+                  <author>Rochester, John Wilmot, Earl of, 1647-1680.</author>
+               </titleStmt>
+               <extent>4 [i.e. 8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Leach at the Sign of the Crown in Cornhil,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXIX. [1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Wilmont Rochester.  Cf. Wing (2nd ed.).</note>
+                  <note>Irregular pagination: pages 5 and 8 wrongly numbered 3 and 4.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English poetry --  Early modern, 1500-1700.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184775:1" rendition="simple:additions"/>
+            <p>Artemiſa to Cloe.</p>
+            <p>A LETTER FROM A LADY IN THE TOVVN, TO A LADY IN THE COUNTRY; CONCERNING The Loves OF THE TOVVN:</p>
+            <p>BY <hi>A PERSON</hi> of <hi>Q<g ref="char:V">Ʋ</g>ALITY.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>William Leach,</hi> at the Sign of the <hi>Crown</hi> in <hi>Cornhil:</hi> M.DC.LXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:184775:2"/>
+            <pb n="3" facs="tcp:184775:2"/>
+            <head>Artemiſa to Cloe.</head>
+            <lg>
+               <l>
+                  <hi>CLOE</hi> in VERSE by your Command I Write,</l>
+               <l>Shortly you'll bid me ride a-ſtride and Fight;</l>
+               <l>Such Talents better with our SEX agree,</l>
+               <l>Than lofty flights of dangerous Poetry.</l>
+               <l>Amongſt the Men, I mean the Men of Wit,</l>
+               <l>(At leaſt they paſs'd for ſuch before they writ:)</l>
+               <l>How many bold Adventurers for the Baies,</l>
+               <l>Proudly deſigning large Returns of Praiſe.</l>
+               <lg>
+                  <l>Who durſt that Stormy Path-leſs World Explore,</l>
+                  <l>Were ſoon toſs'd back and wrackt on the dull Shore,</l>
+                  <l>Broke of that little Stock they had before?</l>
+               </lg>
+               <l>How would a Womans tottering Bark be toſs'd,</l>
+               <l>Where ſtouteſt Ships, the Men of War are loſt.</l>
+               <l>When I reflect on this, I ſtraight grow wiſe,</l>
+               <l>And my own ſelf I gravely thus adviſe:</l>
+               <l>Dear <hi>Artemiſa</hi> Poetry's a Snare,</l>
+               <l>
+                  <hi>Bedlam</hi> has many Manſions, have a Care;</l>
+               <l>Your Muſe directs you, makes your Reader ſad;</l>
+               <l>You fancy y'are inſpir'd, he thinks you mad.</l>
+               <l>Conſider too, 'twill be diſcreetly done,</l>
+               <l>To make your ſelf the Fiddle of the Town:</l>
+               <l>To find th' ill-humour'd Pleaſure at their need,</l>
+               <l>Scorn'd if you fail, and Curſs'd if you ſucceed.</l>
+               <lg>
+                  <l>Yet like an arrant Woman, as I am,</l>
+                  <l>No ſooner well convinc'd, Writing's a ſhame;</l>
+                  <l>That Whore is ſcarce a more reproachful Name</l>
+               </lg>
+               <l>Than Poeteſs!—</l>
+               <l>As Men that Marry, or as Maids that Woo,</l>
+               <l>Cauſe 'tis the very worſt thing they can do:</l>
+               <l>Pleas'd with the Contradiction and the Sin;</l>
+               <l>Methinks I ſtand on Thorns till I begin.</l>
+            </lg>
+            <lg>
+               <l>You expect to hear at leaſt, what Loves have paſt</l>
+               <l>In this lewd Town, ſince you and I meet laſt;</l>
+               <l>What Change hath hapned of Intrigues, and whether</l>
+               <l>The old Ones laſt; or who and who's together:</l>
+               <l>
+                  <pb n="4" facs="tcp:184775:3"/>
+But how, my Deareſt <hi>Cloe,</hi> ſhall I ſet</l>
+               <l>My Pen to write, what I would fain forget?</l>
+               <l>Or name that loſt thing <hi>LOVE,</hi> without a Tear,</l>
+               <l>Since ſo Debauch'd by ill-bred Cuſtoms here.</l>
+               <l>
+                  <hi>LOVE!</hi> the moſt Generous Paſſion of the Mind,</l>
+               <l>The ſofteſt Refuge Innocence can find:</l>
+               <l>The ſafe Director of unguided Youth,</l>
+               <l>Fraught with kind Wiſhes, and ſecur'd by Truth.</l>
+               <l>That Cordial Drop Heaven in our Cup has thrown,</l>
+               <l>To make the Nauceous Draught of Life go down:</l>
+               <l>On which one onely Bleſſing, God might Raiſe</l>
+               <l>In Lands of Atheiſts Subſidies of Praiſe.</l>
+               <l>For none did e're ſo dull and ſtupid prove,</l>
+               <l>But felt a God, and bleſs'd his Power in Love.</l>
+               <l>This onely Joy, for which poor we were made</l>
+               <l>Is grown like Play to be an arrant Trade:</l>
+               <l>The Rooks creep in; and it has got of late</l>
+               <l>As many little Cheats and Tricks as that.</l>
+               <l>But what yet more a Womans Heart would vex,</l>
+               <l>'Tis chiefly carried on by our own Sex:</l>
+               <lg>
+                  <l>Our ſilly Sex, who born like Monarchs, Free,</l>
+                  <l>Turn Gipſies for a meaner Liberty,</l>
+                  <l>And hate Reſtraint, tho' but from Infamy.</l>
+               </lg>
+               <lg>
+                  <l>They call what ever is not Common, Nice,</l>
+                  <l>And deaf to Natures Rules and Loves Advice,</l>
+                  <l>Forſake the Pleaſures, to purſue the Vice.</l>
+               </lg>
+               <l>To an exact Perfection they have wrought,</l>
+               <l>The Action Love, the Paſſion is forgot:</l>
+               <l>'Tis below Wit they'll tell you to Admire,</l>
+               <l>And ev'n without approving, they Deſire:</l>
+               <l>Their private wiſh obey the publick Voice,</l>
+               <l>'Twixt good and bad Whimſey decides, not Choice</l>
+               <l>Faſhions grow up ſo faſt, at Forms they ſtrike,</l>
+               <l>They know what they would have, not what they like.</l>
+               <lg>
+                  <l>
+                     <hi>B—</hi> is a Beauty, if ſome few agree</l>
+                  <l>To call him ſo, the reſt to that Degree</l>
+                  <l>Affected are, that with their Ears they ſee.</l>
+               </lg>
+               <l>Where I was Viſiting the other Night,</l>
+               <l>Comes a Fair Lady with her humble Knight:</l>
+               <l>Who had prevail'd on her by her own Skill,</l>
+               <l>At his Requeſt, tho' much againſt his Will.</l>
+               <l>To come to <hi>London—</hi>
+               </l>
+               <l>As the Coach Stopp'd, we heard her Voice more lou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Than a Great-belly'd Woman's in a Croud:</l>
+               <l>Telling her Knight that her Affairs require,</l>
+               <l>He for ſome Hours Obſequiouſly retire.</l>
+               <lg>
+                  <pb n="3" facs="tcp:184775:3" rendition="simple:additions"/>
+                  <l>I think ſhe was aſham'd to have him ſeen,</l>
+                  <l>(Hard Fate of Husbands) the Gallant had been,</l>
+                  <l>Though a diſeas'd hard-favour'd Fool brought in.</l>
+               </lg>
+               <l>Diſpatch, ſays She, your Buſineſs you pretend,</l>
+               <l>That beaſtly Viſit to the drunken Friend:</l>
+               <l>A Bottle ever makes you look ſo fine,</l>
+               <l>Methinks I long to ſmell you ſtink of Wine:</l>
+               <l>Your Country drinking Breath's enough to kill</l>
+               <l>Sowr Ale corrected with a Lemmon-Pill;</l>
+               <l>Prithee farewell, we'll meet agen a-non,</l>
+               <l>The neceſſary Thing bows, and is gon:</l>
+               <l>She flies up Stairs, and all the haſt does ſhow,</l>
+               <l>That fifty Antick Poſtures will allow:</l>
+               <l>And then burſts out, Dear Madam, am not I</l>
+               <l>The alter'dſt Creature breathing, let me die;</l>
+               <l>I find my ſelf ridiculouſly grown</l>
+               <l>
+                  <hi>Embarraſsè</hi> with being out of Town.</l>
+               <l>Rude and untaught, like any Indian Queen,</l>
+               <l>My Country-nakedneſs is ſtrangely ſeen.</l>
+               <l>How is Love govern'd? Love that rules the State;</l>
+               <l>And pray who are the Men moſt worn of late?</l>
+               <l>When I was Married, Fools were Al-a-mode,</l>
+               <l>The Men of Wit were then held Incommode:</l>
+               <lg>
+                  <l>Slow of Belief, and fickle in Deſire,</l>
+                  <l>Who e're they'll be perſwaded, muſt enquire;</l>
+                  <l>As if they came to ſpy, not to admire.</l>
+               </lg>
+               <l>With ſearching Wiſdom, fatal to their Eaſe,</l>
+               <l>They'll ſtill find out, why what may, ſhould not pleaſe:</l>
+               <l>Nay, take themſelves for injur'd, if we dare</l>
+               <l>Make them think better of us than we are:</l>
+               <l>And if we hide our Frailties from their Sights,</l>
+               <l>Call us deceitful Jilts, and Hypocrites.</l>
+               <l>They little gueſs who at our Arts are griev'd,</l>
+               <l>The perfect Joy of being well deceiv'd,</l>
+               <lg>
+                  <l>Inquiſitive as jealous Cuckolds grow,</l>
+                  <l>Rather than not be knowing, they will know</l>
+                  <l>What being known creates their certain Woe.</l>
+               </lg>
+               <l>Women ſhould theſe of all Mankind avoid,</l>
+               <l>For Wonder by clear Knowledge is deſtroy'd.</l>
+               <lg>
+                  <l>Woman who is an arrant Bird of Night,</l>
+                  <l>Bold in the Dusk before a Fool's dull Sight,</l>
+                  <l>Should fly, when Reaſon brings the Glaring Light.</l>
+               </lg>
+               <lg>
+                  <l>But the kind eaſie Fool, apt to Admire</l>
+                  <l>Himſelf, truſts us; his Follies all conſpire</l>
+                  <l>To flatter his, and favour our Deſire.</l>
+               </lg>
+               <l>Vain of his proper Merit, he with eaſe</l>
+               <l>Believes we love him beſt, who beſt can pleaſe:</l>
+               <l>
+                  <pb n="6" facs="tcp:184775:4"/>
+On him our common groſs dull Flatteries paſs,</l>
+               <l>Ever moſt Joyful when moſt made an Aſs:</l>
+               <l>Heavy to apprehend; tho' all Mankind</l>
+               <l>Perceive us falſe, the Fopp concern'd is blind;</l>
+               <l>Who dot<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng on himſelf—</l>
+               <l>Thinks every one that ſees him of his Mind.</l>
+               <l>Theſe are true Womens-men:—Here forc'd to ceaſe</l>
+               <l>For want of Breath, not Will, to hold her peace:</l>
+               <l>She to the Window runs, where ſhe had ſpy'd,</l>
+               <l>Her much eſteem'd dear Friend, the Monkey ty'd:</l>
+               <l>With forty Smiles, as many Antick Bows,</l>
+               <l>As if't had been the Lady of the Houſe,</l>
+               <l>The d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rty chattering Monſter ſhe imbrac'd,</l>
+               <l>And made it this fine tender Speech at laſt:</l>
+               <l>"Kiſs me thou Curious Miniture of Man,</l>
+               <l>"How odd thou art, how pretty, how Japan!</l>
+               <l>"O! I could live and die with thee.—Then on</l>
+               <l>For half an Hour in Complement ſhe run.</l>
+               <lg>
+                  <l>I took this time to think what Nature meant,</l>
+                  <l>When this mixt thing into the World ſhe ſent;</l>
+                  <l>So very wiſe, yet ſo impertinent:</l>
+               </lg>
+               <l>One who knew every thing, who 'twas thought fit</l>
+               <l>Should be a Fool through Choice, not want of Wit:</l>
+               <l>VVhoſe Foppery, without the help of Sence,</l>
+               <l>Could ne'r have riſe to ſuch an Excellence.</l>
+               <l>Nature's as lame in making a true Fop,</l>
+               <l>As a Philoſopher the very top</l>
+               <l>And Dignity of Folly we attain;</l>
+               <l>By curious ſearch and labour of the Brain;</l>
+               <l>By Obſervation, Counſel, and deep Thought:</l>
+               <l>God never made a Coxcomb worth a Groat,</l>
+               <l>VVe owe that Name to Induſtry and Arts,</l>
+               <l>An Eminent Fool muſt be a Fool of Parts:</l>
+               <l>And ſuch an one was ſhe, who had turn'd o're</l>
+               <l>As many Books as Men, lov'd much, read more;</l>
+               <l>Had a diſcerning Wit; to her was known</l>
+               <l>Every one's Fault and Merit, but her own:</l>
+               <lg>
+                  <l>All the good Qualities that ever bleſs't</l>
+                  <l>A Woman ſo diſtinguiſht from the reſt,</l>
+                  <l>Except Diſcretion onely, ſhe poſſeſt.</l>
+               </lg>
+               <l>And now <hi>Monſieur</hi> dear Pugg, ſhe cries adieu,</l>
+               <l>And the Diſcourſe broke off, does thus renew:</l>
+            </lg>
+            <lg>
+               <l>"You Smile too ſee me, whom the World perchance</l>
+               <l>Miſtakes to have ſome Wit; ſo far advance</l>
+               <l>The Intereſt of Fools, that I approve</l>
+               <l>Their Merit more than Men's of Wit, in love.</l>
+               <l>
+                  <pb n="7" facs="tcp:184775:4"/>
+But in our Sex too many Proofs there are,</l>
+               <l>Of ſuch whom Wits undo, and Fools repair.</l>
+               <l>This in my time was ſo receiv'd a Rule,</l>
+               <l>Hardly a Wench in Town but had her Fool;</l>
+               <l>The meaneſt common Slut, who long was grown</l>
+               <l>The Jeſt and Scorn of every Pit Buffoon,</l>
+               <l>Had yet left Charms enough to have ſubdu'd</l>
+               <l>Some Fopp or other fond to be thought lewd.</l>
+               <l>
+                  <hi>Foſter</hi> could make an Iriſh Lord a Nokes,</l>
+               <l>And <hi>Betty Morris</hi> had her City Cokes.</l>
+               <l>A Woman's nere ſo ruin'd, but ſhe can</l>
+               <l>Be ſtill reveng'd on her Undoer Man:</l>
+               <l>How loſt ſo e're, ſhe'll find ſome Lover more</l>
+               <l>A lewd abandon'd Fool, then ſhe's a Whore.</l>
+               <l>That wretched Thing <hi>Corinna,</hi> who had run</l>
+               <l>Through all the ſeveral Wayes of being undone.</l>
+               <l>Cozen'd at firſt by Love, and living then</l>
+               <l>By turning the too dear bought Trick on Men:</l>
+               <l>Gay were the Hours, and Wing'd with Joy they flew,</l>
+               <l>When firſt the Town her early Beauty knew:</l>
+               <l>Courted, admir'd, and lov'd, with Preſents fed,</l>
+               <l>Youth in her Looks, and Pleaſure in her Bed;</l>
+               <l>Till Fate, or her ill Angel thought it fit</l>
+               <l>To make her dote upon a Man of Wit;</l>
+               <l>Who found 'twas dull to love above a Day,</l>
+               <l>Made his ill-natur'd Jeſt, and went away.</l>
+               <l>Now ſcorn'd by all, forſaken and oppreſs't,</l>
+               <l>She's a <hi>Memento mori</hi> to the Reſt:</l>
+               <l>Diſeas'd, decay'd, to take up Half a Crown.</l>
+               <l>Muſt Mortgage her long Scarff, and Manto Gown.</l>
+               <l>Poor Creature! who unheard of, as a Flie</l>
+               <l>In ſome dark Hole muſt all the Winter lie:</l>
+               <l>And Want, and Dirt endure a whole half Year,</l>
+               <l>That for one Month She Tawdry may appear.</l>
+               <l>In <hi>Eaſter Term</hi> She gets her a new Gown,</l>
+               <l>When my young Maſters Worſhip comes to Town:</l>
+               <l>From <hi>Pedagog</hi> and Mother juſt ſet free,</l>
+               <l>The Heir and Hopes of a great Family;</l>
+               <l>Who with ſtrong Ale and Beef the Country Rules,</l>
+               <l>And ever ſince the Conqueſt have been Fools:</l>
+               <l>And now with careful Proſpect to maintain</l>
+               <l>This Character, leſt croſſing of the Strain</l>
+               <l>Should mend the Booby-breed, his Friends provide</l>
+               <l>A Couſin of his own for his fair Bride.</l>
+               <l>And thus ſet out—</l>
+               <l>With an Eſtate, no Wit, and a young Wife,</l>
+               <l>The ſolid Comforts of a Coxcombs life:</l>
+               <l>
+                  <pb n="4" facs="tcp:184775:5"/>
+Dung-hill and Peaſe forſook, he comes to Town,</l>
+               <l>Turns Spark, learns to be lewd, and is undone.</l>
+               <l>Nothing ſutes worſe with Vice, than want of Sence,</l>
+               <l>Fools are ſtill wicked at their own Expence.</l>
+               <l>This o'r grown School-Boy loſt <hi>Corinna</hi> wins,</l>
+               <l>And at firſt daſh, to make an Aſs begins:</l>
+               <l>"Pretends to like a Man who has not known</l>
+               <l>"The Vanities nor Vices of the Town.</l>
+               <l>"Freſh in his Youth, and faithful in his Love,</l>
+               <l>"Eager of Joys, which he does ſeldom prove:</l>
+               <l>"Healthful and Strong, he does no Pains indure,</l>
+               <l>"But what the Fair One he adores can cure.</l>
+               <l>"Grateful for Favours, does the Sex eſteem,</l>
+               <l>"And Libels none for being kind to him:</l>
+               <l>"Then of the Lewdneſs of the Town complains,</l>
+               <l>"Rails at the Wits and Atheiſts, and maintains</l>
+               <l>"'Tis better than good Sence, than Power, than Wealth,</l>
+               <l>"To have alone untainted Youth, and Health.</l>
+               <l>The unbred Puppey, who had never ſeen</l>
+               <l>A Creature look ſo Gay, or talk ſo Fine,</l>
+               <l>Believes, then falls in Love, and then in Debt,</l>
+               <l>Mortgages all, even to the Ancient Seat:</l>
+               <l>To buy his Miſtreſs a new Houſe for Life,</l>
+               <l>To give her Plate and Jewels, robs his Wife;</l>
+               <l>And when to th' height of Fondneſs he is grown,</l>
+               <l>'Tis time to poyſon him, and all's Her own.</l>
+               <l>Thus meeting in her Common Arms his Fate,</l>
+               <l>He leaves her Baſtard-Heir to his Eſtate:</l>
+               <l>And as the Race of ſuch an Owl deſerves,</l>
+               <l>His own dull lawful Progeny he ſtarves.</l>
+               <l>Nature who never made a thing in vain,</l>
+               <l>But do's each Inſect for ſome end ordain;</l>
+               <l>Wiſely contriv'd kind-keeping Fools no doubt,</l>
+               <l>To patch up Vices, Men of Wit wear out.</l>
+               <l>Thus ſhe ran on two Hours, ſome Grains of Sence,</l>
+               <l>Mixt with whole Vollies of Impertinence.</l>
+               <lg>
+                  <l>But now 'tis time I ſhould ſome pitty ſhow</l>
+                  <l>To <hi>Cloe,</hi> ſince I cannot chooſe but know</l>
+                  <l>Readers muſt Reap the Dulneſs Writers Sow.</l>
+               </lg>
+               <l>By the next Poſt ſuch Stories I will tell,</l>
+               <l>As joyn'd with theſe, ſhall to a Volume ſwell:</l>
+               <l>As True as Heaven, more Infamous than Hell;</l>
+               <l>But now you're tyr'd, and ſo am I. Farewell.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
